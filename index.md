@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# RYMCU 白皮书
+> RYMCU 的使命是建立一个即严谨又活泼、专业又不失有趣，为数百万人服务的开源嵌入式知识学习交流平台  
 
-You can use the [editor on GitHub](https://github.com/rymcu/rymcu/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rymcu/rymcu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+本白皮书概述了我们努力打造一个新的嵌入式知识平台的计划，以期为嵌入式知识学习交流开创新的方式。
+## 了解 RYMCU
+### 问题描述
+互联网和移动宽带的诞生令全球数十亿人得以获得世界各地的知识与信息、享受高保真通信，以及各种各样成本 更低、更便捷的服务。
+但是，现有的嵌入式知识社区或多或少的存在以下问题:
+* 界面风格老式，没有跟上时代发展的步伐
+* 缺乏创新、好玩的特性，缺少现代化的交互元素和用户体验
+* 缺乏考虑实际的运营需求，管理功能过于单一
+* 细节不够精致、缺乏长期维护
+* 社区内容过时、晦涩难懂
+* 社区内容零散、不系统
+* 沟通成本高或无沟通渠道
+* 理论与项目实践不匹配
+### 我们的机遇
+在我们携手踏上这段征程之际，我们认为有必要向社区分享我们的信念，以便于了解我们计划围绕这一倡议建立的生态系统:
+* 我们认为，电子爱好者应该可以更轻松的获取知识，更轻松的掌握技能，更快速的应用于实践，更高效的提升自我。
+* 我们认为，开放、专业和低成本沟通的社区将为电子爱好者群体创造巨大的经济机遇和商业价值。
+* 我们认为，所有人都有责任帮助推进社区发展，支持遵守网络道德规范的用户，并持续维护这个生态系统的完整性。
+## RYMCU 的下一步计划是什么？
+### 学习教程
+- [51 单片机入门教程](https://rymcu.com/portfolio/8)
+- STM32 入门教程  
+### 社区建设
+- 知识库(藏经阁)
+> 针对被大众普遍认可的作品集,社区将提供协助对作品集内容进行勘误,并将其加入知识库对外宣传
+- 项目库(科技馆)
+> 用户可分享、关注自己的兴趣项目,用于分享交流个人的创意想法和项目实战
+## 如何参与
+- 解答他人的[疑惑](https://rymcu.com) 
+- 分享你的个人[项目](https://rymcu.com)
+- 协助完善社区[系统](https://rymcu.com/article/29)
